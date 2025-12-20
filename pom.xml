@@ -24,7 +24,7 @@
         <guava-version>16.0.1</guava-version>
         <jackson-version>2.12.0</jackson-version>
         <jersey-version>2.31</jersey-version>
-        <log4j.version>2.17.2</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <onebusaway-siri-version>1.0.6</onebusaway-siri-version>
@@ -464,7 +464,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
