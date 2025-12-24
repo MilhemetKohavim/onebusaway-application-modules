@@ -15,7 +15,7 @@
     <properties>
         <asm-version>8.0.1</asm-version>
         <!-- this needs to match cloud-services -->
-        <aws.version>1.11.602</aws.version>
+        <aws.version>1.12.796</aws.version>
         <gwt-version>2.4.0</gwt-version>
         <csv-entities-version>1.1.7</csv-entities-version>
         <collections-version>1.2.8</collections-version>
@@ -24,7 +24,7 @@
         <guava-version>16.0.1</guava-version>
         <jackson-version>2.12.0</jackson-version>
         <jersey-version>2.31</jersey-version>
-        <log4j.version>2.17.2</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <onebusaway-siri-version>1.0.6</onebusaway-siri-version>
@@ -464,7 +464,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
